@@ -1,0 +1,39 @@
+{
+  "name": "passport-harvest",
+  "version": "0.1.0",
+  "description": "Harvest authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "harvest",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sparkbox/passport-harvest.git"
+  },
+  "bugs": {
+    "url": "http://github.com/sparkbox/passport-harvest/issues"
+  },
+  "author": {
+    "name": "Jeremy Mack",
+    "url": "http://twitter.com/mutewinter"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-harvest",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "~0.1.1",
+    "request": "~2.34.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
