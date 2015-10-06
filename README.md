@@ -1,3 +1,5 @@
+:warning: **NOTICE:** We're sorry to say that the needs we had when creating this no longer exist at [Sparkbox](http://seesparkbox.com).  We no longer intend to actively develop and support this passport strategy.  We do intend to sustain the repostory, so feel free to use the repo in your `package.json` dependencies.  We've tagged the only release, [0.1.0](https://github.com/sparkbox/passport-harvest/releases/tag/v0.1.0), which we recommend locking your project against, just in case.
+
 # Passport-Harvest
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
